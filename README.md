@@ -1,1 +1,7 @@
-# BDFD-Bot-issues-codeshare
+# BDFD Bot issues codeshare
+
+## Variables
+
+## /log-issue
+
+## $onInteraction
